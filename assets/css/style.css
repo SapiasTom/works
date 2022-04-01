@@ -313,6 +313,7 @@ section.section-show {
 section .container {
   background: rgb(100 52 13 / 29%);
   padding: 30px;
+  border-radius: 10px;
 }
 @media (max-width: 768px) {
   section {
